@@ -3,7 +3,7 @@
 
 Awesome list of software not using LLMs.
 
-TODO (help is welcome!!)
+### TODO (help is welcome!!)
 - [ ] Add more development and productive tools
 - [ ] Create a "NO-LLM" or "AI-FREE" badge
 
@@ -29,6 +29,10 @@ TODO (help is welcome!!)
 
 ### GIS
 - [uMap](https://umap.openstreetmap.fr/en/about/) - Create layered maps that can be embbeded on any site.
+
+## Do Not Trust
+- Microsoft
+  - Zeff, M. (2025, April 29). Microsoft CEO says up to 30% of the company’s code was written by AI. TechCrunch. https://techcrunch.com/2025/04/29/microsoft-ceo-says-up-to-30-of-the-companys-code-was-written-by-ai/. \[[Archived](https://web.archive.org/web/20250502041532/https://techcrunch.com/2025/04/29/microsoft-ceo-says-up-to-30-of-the-companys-code-was-written-by-ai/)\]
 
 ## Commitment
 If you are a developer, show below your commitment to not use nor implement "AI-features" such as LLM chatbots and generative tools. If you are an user, check their repositories for, maybe, more AI-free software.
