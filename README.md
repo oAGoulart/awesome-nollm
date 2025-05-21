@@ -36,6 +36,8 @@ Awesome list of software not using LLMs.
   - Zeff, M. (2025, April 29). Microsoft CEO says up to 30% of the company’s code was written by AI. TechCrunch. https://techcrunch.com/2025/04/29/microsoft-ceo-says-up-to-30-of-the-companys-code-was-written-by-ai/. \[[Archived](https://web.archive.org/web/20250502041532/https://techcrunch.com/2025/04/29/microsoft-ceo-says-up-to-30-of-the-companys-code-was-written-by-ai/)\]
 - Adobe
   - Harding, S. (2025, May 20). Adobe to automatically move subscribers to pricier, AI-focused tier in June. Ars Technica. https://arstechnica.com/gadgets/2025/05/adobe-hikes-subscription-prices-to-support-generative-ai-features/. \[[Archived](https://web.archive.org/web/20250520214614/https://arstechnica.com/gadgets/2025/05/adobe-hikes-subscription-prices-to-support-generative-ai-features/)\]
+- Netflix
+  - Harding, S. (2025a, May 15). Netflix will show generative AI ads midway through streams in 2026. Ars Technica. https://arstechnica.com/gadgets/2025/05/netflix-will-show-generative-ai-ads-midway-through-streams-in-2026/. \[[Archived](https://web.archive.org/web/20250519011340/https://arstechnica.com/gadgets/2025/05/netflix-will-show-generative-ai-ads-midway-through-streams-in-2026/)\]
 
 ## Commitment
 If you are a developer, show below your commitment to not use nor implement "AI-features" such as LLM chatbots and generative tools. If you are an user, check their repositories for, maybe, more AI-free software.
