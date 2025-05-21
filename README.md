@@ -12,6 +12,7 @@ Awesome list of software not using LLMs.
   - [Web Browser](#web-browser)
   - [WebMail Provider](#webmail-provider)
   - [Text Editor](#text-editor)
+  - [Grammar Checker](#grammar-checker)
   - [GIS](#gis) 
 - [Do NOT Trust](#do-not-trust)
 - [Commitment](#commitment)
@@ -27,6 +28,10 @@ Awesome list of software not using LLMs.
 - [Neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability.
 - [TeXworks](https://www.tug.org/texworks/) - The working environment for the TeX world.
   _Note: both [TeX Live](https://tug.org/texlive/) and [MiKTeX](https://miktex.org) include TeXworks for Windows._
+
+### Grammar Checker
+- [Harper](https://writewithharper.com) - Runs _English_ grammar checking on-device. Might have other languages in the future.
+  > No network request, no massive language models, no fuss.
 
 ### GIS
 - [uMap](https://umap.openstreetmap.fr/en/about/) - Create layered maps that can be embbeded on any site.
