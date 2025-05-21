@@ -34,6 +34,7 @@ Awesome list of software not using LLMs.
 ## Do NOT Trust
 - Microsoft
   - Zeff, M. (2025, April 29). Microsoft CEO says up to 30% of the company’s code was written by AI. TechCrunch. https://techcrunch.com/2025/04/29/microsoft-ceo-says-up-to-30-of-the-companys-code-was-written-by-ai/. \[[Archived](https://web.archive.org/web/20250502041532/https://techcrunch.com/2025/04/29/microsoft-ceo-says-up-to-30-of-the-companys-code-was-written-by-ai/)\]
+  - Warren, T. (2025, May 15). Microsoft shuts off Bing Search APIs and recommends switching to AI. The Verge. https://www.theverge.com/news/667517/microsoft-bing-search-api-end-of-support-ai-replacement. \[[Archived](https://web.archive.org/web/20250519085046/https://www.theverge.com/news/667517/microsoft-bing-search-api-end-of-support-ai-replacement)\]
 - Adobe
   - Harding, S. (2025, May 20). Adobe to automatically move subscribers to pricier, AI-focused tier in June. Ars Technica. https://arstechnica.com/gadgets/2025/05/adobe-hikes-subscription-prices-to-support-generative-ai-features/. \[[Archived](https://web.archive.org/web/20250520214614/https://arstechnica.com/gadgets/2025/05/adobe-hikes-subscription-prices-to-support-generative-ai-features/)\]
 - Netflix
