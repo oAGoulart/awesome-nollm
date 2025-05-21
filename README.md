@@ -3,6 +3,10 @@
 
 Awesome list of software not using LLMs.
 
+TODO (help is welcome!!)
+- [ ] Add more development and productive tools
+- [ ] Create a "NO-LLM" or "AI-FREE" badge
+
 ## Contents
 - [Tools](#tools)
   - [Web Browser](#web-browser)
