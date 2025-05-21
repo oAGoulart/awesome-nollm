@@ -43,6 +43,8 @@ Awesome list of software not using LLMs.
   - Peters, J. (2025, April 28). Duolingo will replace contract workers with AI. The Verge. https://www.theverge.com/news/657594/duolingo-ai-first-replace-contract-workers. \[[Archived](https://web.archive.org/web/20250518114620/https://www.theverge.com/news/657594/duolingo-ai-first-replace-contract-workers)\]
 - Netflix
   - Harding, S. (2025a, May 15). Netflix will show generative AI ads midway through streams in 2026. Ars Technica. https://arstechnica.com/gadgets/2025/05/netflix-will-show-generative-ai-ads-midway-through-streams-in-2026/. \[[Archived](https://web.archive.org/web/20250519011340/https://arstechnica.com/gadgets/2025/05/netflix-will-show-generative-ai-ads-midway-through-streams-in-2026/)\]
+- __Any__ brand using Brandshield
+  - Khan, A. (2024, December 9). itch.io taken down by Funko’s Brandshield AI-powered IP protection software. Shacknews. https://www.shacknews.com/article/142460/itchio-taken-down-funko-ai-ip-protection. \[[Archived](https://web.archive.org/web/20250326021754/https://www.shacknews.com/article/142460/itchio-taken-down-funko-ai-ip-protection)\]
 
 ## Commitment
 If you are a developer, show below your commitment to not use nor implement "AI-features" such as LLM chatbots and generative tools. If you are an user, check their repositories for, maybe, more AI-free software.
