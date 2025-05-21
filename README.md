@@ -39,6 +39,8 @@ Awesome list of software not using LLMs.
   - Duboust, O. (2025, May 15). YouTube will start playing ads at ‘peak’ video moments using new artificial intelligence tool. Euronews. https://www.euronews.com/next/2025/05/15/youtube-will-start-playing-ads-at-peak-video-moments-using-new-artificial-intelligence-too. \[[Archived](https://web.archive.org/web/20250516135704/https://www.euronews.com/next/2025/05/15/youtube-will-start-playing-ads-at-peak-video-moments-using-new-artificial-intelligence-too)\]
 - Adobe
   - Harding, S. (2025, May 20). Adobe to automatically move subscribers to pricier, AI-focused tier in June. Ars Technica. https://arstechnica.com/gadgets/2025/05/adobe-hikes-subscription-prices-to-support-generative-ai-features/. \[[Archived](https://web.archive.org/web/20250520214614/https://arstechnica.com/gadgets/2025/05/adobe-hikes-subscription-prices-to-support-generative-ai-features/)\]
+- Duolingo
+  - Peters, J. (2025, April 28). Duolingo will replace contract workers with AI. The Verge. https://www.theverge.com/news/657594/duolingo-ai-first-replace-contract-workers. \[[Archived](https://web.archive.org/web/20250518114620/https://www.theverge.com/news/657594/duolingo-ai-first-replace-contract-workers)\]
 - Netflix
   - Harding, S. (2025a, May 15). Netflix will show generative AI ads midway through streams in 2026. Ars Technica. https://arstechnica.com/gadgets/2025/05/netflix-will-show-generative-ai-ads-midway-through-streams-in-2026/. \[[Archived](https://web.archive.org/web/20250519011340/https://arstechnica.com/gadgets/2025/05/netflix-will-show-generative-ai-ads-midway-through-streams-in-2026/)\]
 
