@@ -5,7 +5,7 @@ Awesome list of software not using LLMs.
 
 ### TODO (help is welcome!!)
 - [ ] Add more development and productive tools
-- [ ] Create a "NO-LLM" or "AI-FREE" badge
+- [ ] [Create a "NO-LLM" or "AI-FREE" badge](https://github.com/oAGoulart/awesome-nollm/discussions/1)
 
 ## Contents
 - [Tools](#tools)
