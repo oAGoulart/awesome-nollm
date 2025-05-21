@@ -15,6 +15,7 @@ Awesome list of software not using LLMs.
   - [Grammar Checker](#grammar-checker)
   - [GIS](#gis) 
 - [Do NOT Trust](#do-not-trust)
+- [Impacts of AI](#impacts-of-ai)
 - [Commitment](#commitment)
 
 ## Tools
@@ -50,6 +51,11 @@ Awesome list of software not using LLMs.
   - Harding, S. (2025a, May 15). Netflix will show generative AI ads midway through streams in 2026. Ars Technica. https://arstechnica.com/gadgets/2025/05/netflix-will-show-generative-ai-ads-midway-through-streams-in-2026/. \[[Archived](https://web.archive.org/web/20250519011340/https://arstechnica.com/gadgets/2025/05/netflix-will-show-generative-ai-ads-midway-through-streams-in-2026/)\]
 - __Any__ brand using Brandshield
   - Khan, A. (2024, December 9). itch.io taken down by Funko’s Brandshield AI-powered IP protection software. Shacknews. https://www.shacknews.com/article/142460/itchio-taken-down-funko-ai-ip-protection. \[[Archived](https://web.archive.org/web/20250326021754/https://www.shacknews.com/article/142460/itchio-taken-down-funko-ai-ip-protection)\]
+
+## Impacts of AI
+
+1. [How crawlers impact the operations of the Wikimedia projects](https://diff.wikimedia.org/2025/04/01/how-crawlers-impact-the-operations-of-the-wikimedia-projects/)
+    > But with the rise of AI, the dynamic is changing: We are observing a significant increase in request volume, with most of this traffic being driven by scraping bots collecting training data for large language models (LLMs) and other use cases. \[...\] 65% of our most expensive traffic comes from bots.
 
 ## Commitment
 If you are a developer, show below your commitment to not use nor implement "AI-features" such as LLM chatbots and generative tools. If you are an user, check their repositories for, maybe, more AI-free software.
