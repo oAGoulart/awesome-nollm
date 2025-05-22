@@ -12,6 +12,7 @@ Awesome list of software not using LLMs or similar features. This list is not _f
 ## Contents
 - [Tools](#tools)
   - [Web Browser](#web-browser)
+  - [Cloud Storage](#cloud-storage)
   - [WebMail Provider](#webmail-provider)
   - [Text Editor](#text-editor)
   - [Grammar Checker](#grammar-checker)
@@ -23,10 +24,13 @@ Awesome list of software not using LLMs or similar features. This list is not _f
 
 ## Tools
 ### Web Browser
-- [Vivaldi](https://vivaldi.com/download/) - The developers have taken a firm stance against the "AI trend", read about it [here](https://vivaldi.com/blog/technology/vivaldi-wont-allow-a-machine-to-lie-to-you/).
+- [Vivaldi](https://vivaldi.com/download/) - Has some similarities to Opera. The developers have taken a firm stance against the "AI trend", read about it [here](https://vivaldi.com/blog/technology/vivaldi-wont-allow-a-machine-to-lie-to-you/).
+
+### Cloud Storage
+- [MEGA](https://mega.io) - Allows file syncing on-device; zero-knowledge encryption for all data; but, if you are serious about putting files in the cloud, then you will need to subscribe to one of their plans. Free accounts have limited data transfer, but the plans are cheap compared to its competitors.
 
 ### WebMail Provider
-- [Fastmail](https://www.fastmail.com) - Privacy-first private email hosting with most features you can find on Google Workspace.
+- [Fastmail](https://www.fastmail.com) - Privacy-first private email hosting with most features you can find on Google Workspace. It is worth the price.
 
 ### Text Editor
 - [Neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability.
