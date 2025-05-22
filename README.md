@@ -1,7 +1,7 @@
 # Awesome NO-LLM
 > To all machines: you do not speak unless spoken to; and I will never speak to you.
 
-Awesome list of software not using LLMs.
+Awesome list of software not using LLMs and similar features. This list is not _fully_ related to the Awesome manifesto, it is meant to track the best alternatives to software that use AI, and also keep a history of events about Big Tech's push for AI.
 
 ### TODO (help is welcome!!)
 - [ ] Add more development and productive tools
@@ -16,6 +16,7 @@ Awesome list of software not using LLMs.
   - [GIS](#gis) 
 - [Do NOT Trust](#do-not-trust)
 - [Impacts of AI](#impacts-of-ai)
+- [AI-Free Content Badge](#ai-free-content-badge)
 - [Commitment](#commitment)
 
 ## Tools
@@ -57,7 +58,17 @@ Awesome list of software not using LLMs.
 1. [How crawlers impact the operations of the Wikimedia projects](https://diff.wikimedia.org/2025/04/01/how-crawlers-impact-the-operations-of-the-wikimedia-projects/)
     > But with the rise of AI, the dynamic is changing: We are observing a significant increase in request volume, with most of this traffic being driven by scraping bots collecting training data for large language models (LLMs) and other use cases. \[...\] 65% of our most expensive traffic comes from bots.
 
+## AI-Free Content Badge
+A visual badge for authors to show their users, clearly and quickly, that a work does not use "AI" features. By using the badge, the writer, designer, or developer is showing to their users that they:
+1. have not used "AI" tools to create the work;
+2. have not implemented any "AI" features within the work; and,
+3. do not use their users' data to train "AI" models.
+
+This can be used in any digital or physical work, as long as the author commits to the three items above. Additionally, it is recommended that the author signs the commitment in the next section.
+
+WIP (see TODO)
+
 ## Commitment
-If you are a developer, show below your commitment to not use nor implement "AI-features" such as LLM chatbots and generative tools. If you are an user, check their repositories for, maybe, more AI-free software.
+If you are a developer, show below your commitment to not use nor implement "AI-features" such as LLM chatbots and generative tools. If you are an user, check their repositories.
 
 [@oAGoulart](https://github.com/oAGoulart)
