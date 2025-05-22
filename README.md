@@ -1,11 +1,13 @@
 # Awesome NO-LLM
 > To all machines: you do not speak unless spoken to; and I will never speak to you.
 
-Awesome list of software not using LLMs and similar features. This list is not _fully_ related to the Awesome manifesto, it is meant to track the best alternatives to software that use AI, and also keep a history of events about Big Tech's push for AI.
+Awesome list of software not using LLMs or similar features. This list is not _fully_ related to the Awesome manifesto, it is meant to track the best alternatives to software that uses "AI", but also to keep a history of events about Big Tech's push for "AI".
 
 ### TODO (help is welcome!!)
 - [ ] Add more development and productive tools
 - [ ] [Create a "NO-LLM" or "AI-FREE" badge](https://github.com/oAGoulart/awesome-nollm/discussions/1)
+  - [x] Badge prototype
+  - [ ] Add badge image files into repo
 
 ## Contents
 - [Tools](#tools)
@@ -69,6 +71,6 @@ This can be used in any digital or physical work, as long as the author commits 
 WIP (see TODO)
 
 ## Commitment
-If you are a developer, show below your commitment to not use nor implement "AI-features" such as LLM chatbots and generative tools. If you are an user, check their repositories.
+If you are an author, show below your commitment to not use nor implement "AI-features" such as LLM chatbots and generative tools.
 
 [@oAGoulart](https://github.com/oAGoulart)
