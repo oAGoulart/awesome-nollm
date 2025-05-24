@@ -3,11 +3,7 @@
 
 Awesome list of software not using LLMs or similar features. This list is not _fully_ related to the Awesome manifesto, it is meant to track the best alternatives to software that uses "AI", but also to keep a history of events about Big Tech's push for "AI".
 
-### TODO (help is welcome!!)
-- [x] Add more development and productive tools
-- [ ] [Create a "NO-LLM" or "AI-FREE" badge](https://github.com/oAGoulart/awesome-nollm/discussions/1)
-  - [x] Badge prototype
-  - [ ] Add badge image files into repo
+__Help is welcome!__ Please take a look on [how to contribute](https://github.com/oAGoulart/awesome-nollm/blob/main/CONTRIBUTING.md).
 
 ## Contents
 - [Tools](#tools)
