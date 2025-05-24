@@ -15,6 +15,7 @@ Awesome list of software not using LLMs or similar features. This list is not _f
   - [Cloud Storage](#cloud-storage)
   - [WebMail Provider](#webmail-provider)
   - [Text Editor](#text-editor)
+  - [Code Editor](#code-editor)
   - [Grammar Checker](#grammar-checker)
   - [GIS](#gis) 
 - [Do NOT Trust](#do-not-trust)
@@ -24,7 +25,7 @@ Awesome list of software not using LLMs or similar features. This list is not _f
 
 ## Tools
 ### Web Browser
-- [Vivaldi](https://vivaldi.com/download/) - Has some similarities to Opera. The developers have taken a firm stance against the "AI trend", read about it [here](https://vivaldi.com/blog/technology/vivaldi-wont-allow-a-machine-to-lie-to-you/).
+- [Vivaldi](https://vivaldi.com/download/) - Has some similarities to Opera. The developers have taken a firm stance against the "AI trend", read about it [here](https://vivaldi.com/blog/technology/vivaldi-wont-allow-a-machine-to-lie-to-you/). Their iOS app allows showing tabs on top/bottom of page.
 
 ### Cloud Storage
 - [MEGA](https://mega.io) - Allows file syncing on-device; zero-knowledge encryption for all data; but, if you are serious about putting files in the cloud, then you will need to subscribe to one of their plans. Free accounts have limited data transfer, but the plans are cheap compared to its competitors.
@@ -33,16 +34,19 @@ Awesome list of software not using LLMs or similar features. This list is not _f
 - [Fastmail](https://www.fastmail.com) - Privacy-first private email hosting with most features you can find on Google Workspace. It is worth the price.
 
 ### Text Editor
-- [Neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability.
-- [TeXworks](https://www.tug.org/texworks/) - The working environment for the TeX world.
-  _Note: both [TeX Live](https://tug.org/texlive/) and [MiKTeX](https://miktex.org) include TeXworks for Windows._
+- [Neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability. More useful than `nano` but not as cluttered as a GUI application.
+- [TeXworks](https://www.tug.org/texworks/) - The working environment for the TeX world. I use it for all of my LaTeX projects (__DO NOT__ give your money to Overleaf).
+  _Note: both [TeX Live](https://tug.org/texlive/) and [MiKTeX](https://miktex.org) include TeXworks for Windows -- I use the latter._
+
+### Code Editor
+- [VSCodium](https://vscodium.com) - VSCode but with no MS telemetry or LLM. It took me some time to transition from VSCode, but it was worth it (anecdote: it does feel snappier/faster).
 
 ### Grammar Checker
 - [Harper](https://writewithharper.com) - Runs _English_ grammar checking on-device. Might have other languages in the future.
   > No network request, no massive language models, no fuss.
 
 ### GIS
-- [uMap](https://umap.openstreetmap.fr/en/about/) - Create layered maps that can be embbeded on any site.
+- [uMap](https://umap.openstreetmap.fr/en/about/) - Create layered maps that can be embbeded on any site. Has high-quality aerial image layer for France (provided by [IGN](https://www.ign.fr/)).
 
 ## Do NOT Trust
 - Microsoft
