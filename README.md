@@ -16,13 +16,14 @@ __Help is welcome!__ Please take a look on [how to contribute](https://github.co
   - [GIS](#gis)
   - [Office Suite](#office-suite)
 - [Do NOT Trust](#do-not-trust)
+- [Warnings](#warnings)
 - [Impacts of AI](#impacts-of-ai)
 - [AI-Free Content Badge](#ai-free-content-badge)
 - [Commitment](#commitment)
 
 ## Tools
 ### Web Browser
-- [Vivaldi](https://vivaldi.com/download/) - Has some similarities to Opera. The developers have taken a firm stance against the "AI trend", read about it [here](https://vivaldi.com/blog/technology/vivaldi-wont-allow-a-machine-to-lie-to-you/). Their iOS app allows showing tabs at the top/bottom of the UI.
+- [Vivaldi](https://vivaldi.com/download/) - Has some similarities to Opera. The developers have taken a firm stance against the "AI trend", read about it [here](https://vivaldi.com/blog/technology/vivaldi-wont-allow-a-machine-to-lie-to-you/). Their iOS app allows showing tabs at the top/bottom of the UI. On the desktop you will have: RAM usage for each page and built-in translation, notes, tasks, mail, and RSS feed panel.
 
 ### Cloud Storage
 - [MEGA](https://mega.io) - Allows file syncing on-device; zero-knowledge encryption for all data; but, if you are serious about putting files in the cloud, then you will need to subscribe to one of their plans. Free accounts have limited data transfer, but the plans are cheap compared to its competitors.
@@ -64,6 +65,9 @@ __Help is welcome!__ Please take a look on [how to contribute](https://github.co
   - Weatherbed, J. (2025, February 20). Spotify is making it easier to release audiobooks narrated by AI. The Verge. https://www.theverge.com/news/616355/spotify-audiobooks-elevenlabs-ai-narration. \[[Archived](https://web.archive.org/web/20250221104318/https://www.theverge.com/news/616355/spotify-audiobooks-elevenlabs-ai-narration)\]
 - __Any__ brand using Brandshield
   - Khan, A. (2024, December 9). itch.io taken down by Funko’s Brandshield AI-powered IP protection software. Shacknews. https://www.shacknews.com/article/142460/itchio-taken-down-funko-ai-ip-protection. \[[Archived](https://web.archive.org/web/20250326021754/https://www.shacknews.com/article/142460/itchio-taken-down-funko-ai-ip-protection)\]
+ 
+## Warnings
+1. If you use Pinterest, disable the setting ["Use your data to train Pinterest Canvas"](https://help.pinterest.com/en/article/manage-genai-settings).
 
 ## Impacts of AI
 
