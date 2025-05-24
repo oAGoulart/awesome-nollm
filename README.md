@@ -4,7 +4,7 @@
 Awesome list of software not using LLMs or similar features. This list is not _fully_ related to the Awesome manifesto, it is meant to track the best alternatives to software that uses "AI", but also to keep a history of events about Big Tech's push for "AI".
 
 ### TODO (help is welcome!!)
-- [ ] Add more development and productive tools
+- [x] Add more development and productive tools
 - [ ] [Create a "NO-LLM" or "AI-FREE" badge](https://github.com/oAGoulart/awesome-nollm/discussions/1)
   - [x] Badge prototype
   - [ ] Add badge image files into repo
@@ -17,7 +17,8 @@ Awesome list of software not using LLMs or similar features. This list is not _f
   - [Text Editor](#text-editor)
   - [Code Editor](#code-editor)
   - [Grammar Checker](#grammar-checker)
-  - [GIS](#gis) 
+  - [GIS](#gis)
+  - [Office Suite](#office-suite)
 - [Do NOT Trust](#do-not-trust)
 - [Impacts of AI](#impacts-of-ai)
 - [AI-Free Content Badge](#ai-free-content-badge)
@@ -25,7 +26,7 @@ Awesome list of software not using LLMs or similar features. This list is not _f
 
 ## Tools
 ### Web Browser
-- [Vivaldi](https://vivaldi.com/download/) - Has some similarities to Opera. The developers have taken a firm stance against the "AI trend", read about it [here](https://vivaldi.com/blog/technology/vivaldi-wont-allow-a-machine-to-lie-to-you/). Their iOS app allows showing tabs on top/bottom of page.
+- [Vivaldi](https://vivaldi.com/download/) - Has some similarities to Opera. The developers have taken a firm stance against the "AI trend", read about it [here](https://vivaldi.com/blog/technology/vivaldi-wont-allow-a-machine-to-lie-to-you/). Their iOS app allows showing tabs at the top/bottom of the UI.
 
 ### Cloud Storage
 - [MEGA](https://mega.io) - Allows file syncing on-device; zero-knowledge encryption for all data; but, if you are serious about putting files in the cloud, then you will need to subscribe to one of their plans. Free accounts have limited data transfer, but the plans are cheap compared to its competitors.
@@ -46,7 +47,10 @@ Awesome list of software not using LLMs or similar features. This list is not _f
   > No network request, no massive language models, no fuss.
 
 ### GIS
-- [uMap](https://umap.openstreetmap.fr/en/about/) - Create layered maps that can be embbeded on any site. Has high-quality aerial image layer for France (provided by [IGN](https://www.ign.fr/)).
+- [uMap](https://umap.openstreetmap.fr/en/about/) - Create layered maps that can be embbeded on any site. Has high-quality aerial imagery layer for France (provided by [IGN](https://www.ign.fr/)).
+
+### Office Suite
+- [LibreOffice](https://www.libreoffice.org) - Not much to add, most of you should use it already. I tend to use Writer for formatting and spell checking, then I use LaTeX to render my documents -- I do not use Calc as often.
 
 ## Do NOT Trust
 - Microsoft
