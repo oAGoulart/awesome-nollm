@@ -82,7 +82,7 @@ A visual badge for authors to show their users, clearly and quickly, that a work
 
 This can be used in any digital or physical work, as long as the author commits to the three items above. Additionally, it is recommended that the author signs the commitment in the next section.
 
-WIP (see TODO)
+![badge](./badge.png)
 
 ## Commitment
 If you are an author, show below your commitment to not use nor implement "AI-features" such as LLM chatbots and generative tools.
