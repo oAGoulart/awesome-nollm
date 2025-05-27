@@ -123,6 +123,8 @@ Disallow: /
 
 1. [How crawlers impact the operations of the Wikimedia projects](https://diff.wikimedia.org/2025/04/01/how-crawlers-impact-the-operations-of-the-wikimedia-projects/)
     > But with the rise of AI, the dynamic is changing: We are observing a significant increase in request volume, with most of this traffic being driven by scraping bots collecting training data for large language models (LLMs) and other use cases. \[...\] 65% of our most expensive traffic comes from bots.
+2. [At Amazon, Some Coders Say Their Jobs Have Begun to Resemble Warehouse Work](https://www.nytimes.com/2025/05/25/business/amazon-ai-coders.html)
+    > The engineers said that the company had raised output goals and had become less forgiving about deadlines... One Amazon engineer said his team was roughly half the size it had been last year, but it was expected to produce roughly the same amount of code by using A.I.
 
 ## AI-Free Content Badge
 A visual badge for authors to show their users, clearly and quickly, that a work does not use "AI" features. By using the badge, the writer, designer, or developer is showing to their users that they:
