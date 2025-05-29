@@ -2,7 +2,7 @@
 [![cc0](https://licensebuttons.net/p/zero/1.0/88x31.png)](./LICENSE)
 > To all machines: you do not speak unless spoken to; and I will never speak to you.
 
-Awesome list of software not using LLMs or similar features. This list is not _fully_ related to the Awesome manifesto, it is meant to track the best alternatives to software that uses "AI", but also to keep a history of events about Big Tech's push for "AI".
+Awesome list of software not using LLMs or similar features. This list is not _completely_ related to the Awesome manifesto, it is meant to track the best alternatives to software that uses "AI", but also to keep a history of events about Big Tech's push for "AI".
 
 __Help is welcome!__ Please take a look on [how to contribute](https://github.com/oAGoulart/awesome-nollm/blob/main/CONTRIBUTING.md).
 
