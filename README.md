@@ -51,6 +51,8 @@ __Help is welcome!__ Please take a look on [how to contribute](https://github.co
 - [LibreOffice](https://www.libreoffice.org) - Not much to add, most of you should use it already. I tend to use Writer for formatting and spell checking, then I use LaTeX to render my documents -- I do not use Calc as often.
 
 ## Do NOT Trust
+- Bitwarden
+  - Babcock, K. (2025, July 10). Bitwarden sets foundation for secure AI authentication with MCP server. Bitwarden Blog. https://bitwarden.com/blog/bitwarden-mcp-server/. \[[Archived](https://web.archive.org/web/20250712202221/https://bitwarden.com/blog/bitwarden-mcp-server/)\]
 - Microsoft
   - Zeff, M. (2025, April 29). Microsoft CEO says up to 30% of the company’s code was written by AI. TechCrunch. https://techcrunch.com/2025/04/29/microsoft-ceo-says-up-to-30-of-the-companys-code-was-written-by-ai/. \[[Archived](https://web.archive.org/web/20250502041532/https://techcrunch.com/2025/04/29/microsoft-ceo-says-up-to-30-of-the-companys-code-was-written-by-ai/)\]
   - Warren, T. (2025, May 15). Microsoft shuts off Bing Search APIs and recommends switching to AI. The Verge. https://www.theverge.com/news/667517/microsoft-bing-search-api-end-of-support-ai-replacement. \[[Archived](https://web.archive.org/web/20250519085046/https://www.theverge.com/news/667517/microsoft-bing-search-api-end-of-support-ai-replacement)\]
