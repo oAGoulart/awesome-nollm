@@ -71,7 +71,8 @@ __Help is welcome!__ Please take a look on [how to contribute](https://github.co
  
 ## Warnings
 1. If you use Pinterest, disable the setting ["Use your data to train Pinterest Canvas"](https://help.pinterest.com/en/article/manage-genai-settings).
-2. If you have a website, add this `robots.txt` to your root folder to stop AI crawler bots:
+2. If you use DuckDuckGo, you can now filter out *most* AI-generated images from results, go to [AI Features](https://duckduckgo.com/settings#aifeatures) and turn on "Hide AI-Generated Images".
+3. If you have a website, add this `robots.txt` to your root folder to stop AI crawler bots:
 ```
 # default (for search engines)
 User-agent: *
