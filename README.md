@@ -16,11 +16,12 @@ __Help is welcome!__ Please take a look on [how to contribute](https://github.co
   - [Grammar Checker](#grammar-checker)
   - [GIS](#gis)
   - [Office Suite](#office-suite)
-- [Do NOT Trust](#do-not-trust)
 - [Warnings](#warnings)
+- [Stopping AI Crawler Bots](#stopping-ai-crawler-bots)
 - [Impacts of AI](#impacts-of-ai)
 - [AI-Free Content Badge](#ai-free-content-badge)
 - [Commitment](#commitment)
+- [Do NOT Trust](#do-not-trust)
 
 ## Tools
 ### Web Browser
@@ -49,30 +50,13 @@ __Help is welcome!__ Please take a look on [how to contribute](https://github.co
 ### Office Suite
 - [LibreOffice](https://www.libreoffice.org) - Not much to add, most of you should use it already. I tend to use Writer for formatting and spell checking, then I use LaTeX to render my documents -- I do not use Calc as often.
 
-## Do NOT Trust
-- Bitwarden
-  - Babcock, K. (2025, July 10). Bitwarden sets foundation for secure AI authentication with MCP server. Bitwarden Blog. https://bitwarden.com/blog/bitwarden-mcp-server/. \[[Archived](https://web.archive.org/web/20250712202221/https://bitwarden.com/blog/bitwarden-mcp-server/)\]
-- Microsoft
-  - Zeff, M. (2025, April 29). Microsoft CEO says up to 30% of the company’s code was written by AI. TechCrunch. https://techcrunch.com/2025/04/29/microsoft-ceo-says-up-to-30-of-the-companys-code-was-written-by-ai/. \[[Archived](https://web.archive.org/web/20250502041532/https://techcrunch.com/2025/04/29/microsoft-ceo-says-up-to-30-of-the-companys-code-was-written-by-ai/)\]
-  - Warren, T. (2025, May 15). Microsoft shuts off Bing Search APIs and recommends switching to AI. The Verge. https://www.theverge.com/news/667517/microsoft-bing-search-api-end-of-support-ai-replacement. \[[Archived](https://web.archive.org/web/20250519085046/https://www.theverge.com/news/667517/microsoft-bing-search-api-end-of-support-ai-replacement)\]
-- Google
-  - Duboust, O. (2025, May 15). YouTube will start playing ads at ‘peak’ video moments using new artificial intelligence tool. Euronews. https://www.euronews.com/next/2025/05/15/youtube-will-start-playing-ads-at-peak-video-moments-using-new-artificial-intelligence-too. \[[Archived](https://web.archive.org/web/20250516135704/https://www.euronews.com/next/2025/05/15/youtube-will-start-playing-ads-at-peak-video-moments-using-new-artificial-intelligence-too)\]
-- Adobe
-  - Harding, S. (2025, May 20). Adobe to automatically move subscribers to pricier, AI-focused tier in June. Ars Technica. https://arstechnica.com/gadgets/2025/05/adobe-hikes-subscription-prices-to-support-generative-ai-features/. \[[Archived](https://web.archive.org/web/20250520214614/https://arstechnica.com/gadgets/2025/05/adobe-hikes-subscription-prices-to-support-generative-ai-features/)\]
-- Duolingo
-  - Peters, J. (2025, April 28). Duolingo will replace contract workers with AI. The Verge. https://www.theverge.com/news/657594/duolingo-ai-first-replace-contract-workers. \[[Archived](https://web.archive.org/web/20250518114620/https://www.theverge.com/news/657594/duolingo-ai-first-replace-contract-workers)\]
-- Netflix
-  - Harding, S. (2025a, May 15). Netflix will show generative AI ads midway through streams in 2026. Ars Technica. https://arstechnica.com/gadgets/2025/05/netflix-will-show-generative-ai-ads-midway-through-streams-in-2026/. \[[Archived](https://web.archive.org/web/20250519011340/https://arstechnica.com/gadgets/2025/05/netflix-will-show-generative-ai-ads-midway-through-streams-in-2026/)\]
-- Spotify
-  - Weatherbed, J. (2025, February 20). Spotify is making it easier to release audiobooks narrated by AI. The Verge. https://www.theverge.com/news/616355/spotify-audiobooks-elevenlabs-ai-narration. \[[Archived](https://web.archive.org/web/20250221104318/https://www.theverge.com/news/616355/spotify-audiobooks-elevenlabs-ai-narration)\]
-- __Any__ brand using Brandshield
-  - Khan, A. (2024, December 9). itch.io taken down by Funko’s Brandshield AI-powered IP protection software. Shacknews. https://www.shacknews.com/article/142460/itchio-taken-down-funko-ai-ip-protection. \[[Archived](https://web.archive.org/web/20250326021754/https://www.shacknews.com/article/142460/itchio-taken-down-funko-ai-ip-protection)\]
- 
 ## Warnings
 1. If you use Pinterest, disable the setting ["Use your data to train Pinterest Canvas"](https://help.pinterest.com/en/article/manage-genai-settings).
 2. If you use DuckDuckGo, you can now filter out *most* AI-generated images from results, go to [AI Features](https://duckduckgo.com/settings#aifeatures) and turn on "Hide AI-Generated Images".
-3. If you have a website, add this `robots.txt` to your root folder to stop AI crawler bots:
-```
+
+## Stopping AI Crawler Bots
+To stop most AI chatbots and data crawlers on your website, add this `robots.txt` to your root folder (for up-to-date index of agents, check [AI agent directory](https://usehall.com/agents) and [AI Agents](https://darkvisitors.com/agents)):
+```robots
 # default (for search engines)
 User-agent: *
 Allow: /
@@ -89,9 +73,13 @@ User-agent: ChatGPT-User
 User-agent: Claude-Web
 User-agent: ClaudeBot
 User-agent: cohere-ai
+User-agent: cohere-training-data-crawler
+User-agent: Cotoyogi
+User-agent: Datenbank Crawler
 User-agent: Diffbot
 User-agent: DuckAssistBot
 User-agent: FacebookBot
+User-agent: Factset_spyderbot
 User-agent: FriendlyCrawler
 User-agent: Google-Extended
 User-agent: GoogleOther
@@ -106,6 +94,7 @@ User-agent: ISSCyberRiskCrawler
 User-agent: Kangaroo Bot
 User-agent: Meta-ExternalAgent
 User-agent: Meta-ExternalFetcher
+User-agent: netEstate Imprint Crawler
 User-agent: OAI-SearchBot
 User-agent: omgili
 User-agent: omgilibot
@@ -113,6 +102,7 @@ User-agent: PanguBot
 User-agent: PerplexityBot
 User-agent: PetalBot
 User-agent: Scrapy
+User-agent: SemrushBot-OCOB
 User-agent: Sidetrade indexer bot
 User-agent: Timpibot
 User-agent: VelenPublicWebCrawler
@@ -142,3 +132,22 @@ This can be used in any digital or physical work, as long as the author commits 
 If you are an author, show below your commitment to not use nor implement "AI-features" such as LLM chatbots and generative tools.
 
 [@oAGoulart](https://github.com/oAGoulart)
+
+## Do NOT Trust
+- Bitwarden
+  - Babcock, K. (2025, July 10). Bitwarden sets foundation for secure AI authentication with MCP server. Bitwarden Blog. https://bitwarden.com/blog/bitwarden-mcp-server/. \[[Archived](https://web.archive.org/web/20250712202221/https://bitwarden.com/blog/bitwarden-mcp-server/)\]
+- Microsoft
+  - Zeff, M. (2025, April 29). Microsoft CEO says up to 30% of the company’s code was written by AI. TechCrunch. https://techcrunch.com/2025/04/29/microsoft-ceo-says-up-to-30-of-the-companys-code-was-written-by-ai/. \[[Archived](https://web.archive.org/web/20250502041532/https://techcrunch.com/2025/04/29/microsoft-ceo-says-up-to-30-of-the-companys-code-was-written-by-ai/)\]
+  - Warren, T. (2025, May 15). Microsoft shuts off Bing Search APIs and recommends switching to AI. The Verge. https://www.theverge.com/news/667517/microsoft-bing-search-api-end-of-support-ai-replacement. \[[Archived](https://web.archive.org/web/20250519085046/https://www.theverge.com/news/667517/microsoft-bing-search-api-end-of-support-ai-replacement)\]
+- Google
+  - Duboust, O. (2025, May 15). YouTube will start playing ads at ‘peak’ video moments using new artificial intelligence tool. Euronews. https://www.euronews.com/next/2025/05/15/youtube-will-start-playing-ads-at-peak-video-moments-using-new-artificial-intelligence-too. \[[Archived](https://web.archive.org/web/20250516135704/https://www.euronews.com/next/2025/05/15/youtube-will-start-playing-ads-at-peak-video-moments-using-new-artificial-intelligence-too)\]
+- Adobe
+  - Harding, S. (2025, May 20). Adobe to automatically move subscribers to pricier, AI-focused tier in June. Ars Technica. https://arstechnica.com/gadgets/2025/05/adobe-hikes-subscription-prices-to-support-generative-ai-features/. \[[Archived](https://web.archive.org/web/20250520214614/https://arstechnica.com/gadgets/2025/05/adobe-hikes-subscription-prices-to-support-generative-ai-features/)\]
+- Duolingo
+  - Peters, J. (2025, April 28). Duolingo will replace contract workers with AI. The Verge. https://www.theverge.com/news/657594/duolingo-ai-first-replace-contract-workers. \[[Archived](https://web.archive.org/web/20250518114620/https://www.theverge.com/news/657594/duolingo-ai-first-replace-contract-workers)\]
+- Netflix
+  - Harding, S. (2025a, May 15). Netflix will show generative AI ads midway through streams in 2026. Ars Technica. https://arstechnica.com/gadgets/2025/05/netflix-will-show-generative-ai-ads-midway-through-streams-in-2026/. \[[Archived](https://web.archive.org/web/20250519011340/https://arstechnica.com/gadgets/2025/05/netflix-will-show-generative-ai-ads-midway-through-streams-in-2026/)\]
+- Spotify
+  - Weatherbed, J. (2025, February 20). Spotify is making it easier to release audiobooks narrated by AI. The Verge. https://www.theverge.com/news/616355/spotify-audiobooks-elevenlabs-ai-narration. \[[Archived](https://web.archive.org/web/20250221104318/https://www.theverge.com/news/616355/spotify-audiobooks-elevenlabs-ai-narration)\]
+- __Any__ brand using Brandshield
+  - Khan, A. (2024, December 9). itch.io taken down by Funko’s Brandshield AI-powered IP protection software. Shacknews. https://www.shacknews.com/article/142460/itchio-taken-down-funko-ai-ip-protection. \[[Archived](https://web.archive.org/web/20250326021754/https://www.shacknews.com/article/142460/itchio-taken-down-funko-ai-ip-protection)\]
