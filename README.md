@@ -56,6 +56,8 @@ __Help is welcome!__ Please take a look on [how to contribute](https://github.co
 
 ## Stopping AI Crawler Bots
 To stop most AI chatbots and data crawlers on your website, add this `robots.txt` to your root folder (for up-to-date index of agents, check [AI agent directory](https://usehall.com/agents) and [AI Agents](https://darkvisitors.com/agents)):
+
+**NOTE [2025/08/05]:** Cloudflare has assessed that [Perplexity is using stealth, undeclared crawlers to evade website no-crawl directives](https://blog.cloudflare.com/perplexity-is-using-stealth-undeclared-crawlers-to-evade-website-no-crawl-directives/).
 ```robots
 # default (for search engines)
 User-agent: *
