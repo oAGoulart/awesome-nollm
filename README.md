@@ -13,10 +13,11 @@ __Help is welcome!__ Please take a look on [how to contribute](https://github.co
   - [WebMail Provider](#webmail-provider)
   - [Text Editor](#text-editor)
   - [Code Editor](#code-editor)
+  - [Graphics Editor](#graphics-editor)
   - [Grammar Checker](#grammar-checker)
   - [GIS](#gis)
   - [Office Suite](#office-suite)
-- [Warnings](#warnings)
+- [AI-Related Settings](#ai-related-settings)
 - [Stopping AI Crawler Bots](#stopping-ai-crawler-bots)
 - [Impacts of AI](#impacts-of-ai)
 - [AI-Free Content Badge](#ai-free-content-badge)
@@ -40,6 +41,9 @@ __Help is welcome!__ Please take a look on [how to contribute](https://github.co
 ### Code Editor
 - [VSCodium](https://vscodium.com) - VSCode but with no MS telemetry or LLM. It took me some time to transition from VSCode, but it was worth it (anecdote: it does feel snappier/faster).
 
+### Graphics Editor
+- [PixiEditor](https://pixieditor.net) - Supports pixel art, vector and raster editing, heightmaps, sprite sheets, and animations. Developers explicitly state no-AI use. I did not test all features, but this project is quite promising.
+
 ### Grammar Checker
 - [Harper](https://writewithharper.com) - Runs _English_ grammar checking on-device. Might have other languages in the future.
   > No network request, no massive language models, no fuss.
@@ -50,14 +54,15 @@ __Help is welcome!__ Please take a look on [how to contribute](https://github.co
 ### Office Suite
 - [LibreOffice](https://www.libreoffice.org) - Not much to add, most of you should use it already. I tend to use Writer for formatting and spell checking, then I use LaTeX to render my documents -- I do not use Calc as often.
 
-## Warnings
+## AI-Related Settings
 1. If you use Pinterest, disable the setting ["Use your data to train Pinterest Canvas"](https://help.pinterest.com/en/article/manage-genai-settings).
 2. If you use DuckDuckGo, you can now filter out *most* AI-generated images from results, go to [AI Features](https://duckduckgo.com/settings#aifeatures) and turn on "Hide AI-Generated Images".
 
 ## Stopping AI Crawler Bots
 To stop most AI chatbots and data crawlers on your website, add this `robots.txt` to your root folder (for up-to-date index of agents, check [AI agent directory](https://usehall.com/agents) and [AI Agents](https://darkvisitors.com/agents)):
 
-**NOTE [2025/08/05]:** Cloudflare has assessed that [Perplexity is using stealth, undeclared crawlers to evade website no-crawl directives](https://blog.cloudflare.com/perplexity-is-using-stealth-undeclared-crawlers-to-evade-website-no-crawl-directives/).
+> [!WARNING]
+> As of *2025-08-04*, Cloudflare has assessed that [Perplexity is using stealth, undeclared crawlers to evade website no-crawl directives](https://blog.cloudflare.com/perplexity-is-using-stealth-undeclared-crawlers-to-evade-website-no-crawl-directives/).
 ```robots
 # default (for search engines)
 User-agent: *
