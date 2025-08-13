@@ -7,6 +7,12 @@ Awesome list of software not using LLMs or similar features. This list is not _c
 > [!IMPORTANT]
 > __Help is wanted!__ Please take a look on [how to contribute](https://github.com/oAGoulart/awesome-nollm/blob/main/CONTRIBUTING.md).
 
+__Legend:__
+- 🔒 closed-source (e.g. non-OSI approved license), otherwise assume open source.
+- 🆓 free as in gratis, all features can be used without any payments.
+- ✴️ freemium, has a free tier and one or more premium tiers.
+- 💶 paid, must pay a fee or subscription to use.
+
 ## Contents
 - [Tools](#tools)
   - [Web Browser](#web-browser)
@@ -27,33 +33,33 @@ Awesome list of software not using LLMs or similar features. This list is not _c
 
 ## Tools
 ### Web Browser
-- [Vivaldi](https://vivaldi.com/download/) - Has some similarities to Opera. The developers have taken a firm stance against the "AI trend", read about it [here](https://vivaldi.com/blog/technology/vivaldi-wont-allow-a-machine-to-lie-to-you/). Their iOS app allows showing tabs at the top/bottom of the UI. On desktop you will have: RAM usage for each page and built-in translation, notes, tasks, mail, and RSS feed panel -- these replaced all extensions I had, only kept uBlock.
+- [Vivaldi](https://vivaldi.com/download/) - 🆓🔒 Has some similarities to Opera. The developers have taken a firm stance against the "AI trend", read about it [here](https://vivaldi.com/blog/technology/vivaldi-wont-allow-a-machine-to-lie-to-you/). Their iOS app allows showing tabs at the top/bottom of the UI. On desktop you will have: RAM usage for each page and built-in translation, notes, tasks, mail, and RSS feed panel -- these replaced all extensions I had, only kept uBlock.
 
 ### Cloud Storage
-- [MEGA](https://mega.io) - Allows file syncing on-device; zero-knowledge encryption for all data; but, if you are serious about putting files in the cloud, then you will need to subscribe to one of their plans. Free accounts have limited data transfer, but the plans are cheap compared to its competitors.
+- [MEGA](https://mega.io) - ✴️🔒 Allows file syncing on-device; zero-knowledge encryption for all data; but, if you are serious about taking your files to the cloud, then you will need to subscribe to one of their plans. Free accounts have limited data transfer, but the plans are cheap compared to their competitors.
 
 ### WebMail Provider
-- [Fastmail](https://www.fastmail.com) - Privacy-first private email hosting with most features you can find on Google Workspace. It is worth the price.
+- [Fastmail](https://www.fastmail.com) - 💶🔒 Privacy-first private email hosting with most features you can find on Google Workspace. It is worth the price.
 
 ### Text Editor
-- [Neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability. More useful than `nano` but not as cluttered as a GUI application.
-- [Kile](https://apps.kde.org/kile/) - LaTeX frontend by KDE. I've used it now for some time, it is not as stable as [TeXworks](https://www.tug.org/texworks/), but it has many more features. You should install [MiKTeX](https://miktex.org) first and -- for best experience -- [Okular](https://apps.kde.org/okular/), [ImageMagick](https://imagemagick.org).
+- [Neovim](https://github.com/neovim/neovim) - 🆓 Vim-fork focused on extensibility and usability. More useful than `nano` but not as cluttered as a GUI application.
+- [Kile](https://apps.kde.org/kile/) - 🆓 LaTeX frontend by KDE. I've used it now for some time, it is not as stable as [TeXworks](https://www.tug.org/texworks/), but it has many more features. You should install [MiKTeX](https://miktex.org) first and -- for best experience -- [Okular](https://apps.kde.org/okular/), [ImageMagick](https://imagemagick.org).
 
 ### Code Editor
-- [VSCodium](https://vscodium.com) - VSCode but with no MS telemetry or LLM. It took me some time to transition from VSCode, but it was worth it (anecdote: it does feel snappier/faster).
+- [VSCodium](https://vscodium.com) - 🆓 VSCode but with no MS telemetry or LLM. It took me some time to transition from VSCode, but it was worth it (anecdote: it does feel snappier/faster).
 
 ### Graphics Editor
-- [PixiEditor](https://pixieditor.net) - Supports pixel art, vector and raster editing, heightmaps, sprite sheets, and animations. Developers explicitly state no-AI use. I did not test all features, but this project is quite promising.
+- [PixiEditor](https://pixieditor.net) - 🆓 Supports pixel art, vector and raster editing, heightmaps, sprite sheets, and animations. Developers explicitly state no-AI use. I did not test all features, but this project is quite promising.
 
 ### Grammar Checker
-- [Harper](https://writewithharper.com) - Runs _English_ grammar checking on-device. Might have other languages in the future.
+- [Harper](https://writewithharper.com) - 🆓 Runs _English_ grammar checking on-device. Might have other languages in the future.
   > No network request, no massive language models, no fuss.
 
 ### GIS
-- [uMap](https://umap.openstreetmap.fr/en/about/) - Create layered maps that can be embbeded on any site. Has high-quality aerial imagery layer for France (provided by [IGN](https://www.ign.fr/)).
+- [uMap](https://umap.openstreetmap.fr/en/about/) - 🆓 Create layered maps that can be embbeded on any site. Has high-quality aerial imagery layer for France (provided by [IGN](https://www.ign.fr/)).
 
 ### Office Suite
-- [LibreOffice](https://www.libreoffice.org) - Not much to add, most of you should use it already. I tend to use Writer for formatting and spell checking, then I use LaTeX to render my documents -- I do not use Calc as often.
+- [LibreOffice](https://www.libreoffice.org) - 🆓 Not much to add, most of you should use it already. I tend to use Writer for formatting and spell checking, then I use LaTeX to render my documents -- I do not use Calc as often.
 
 ## AI-Related Settings
 1. If you use Pinterest, disable the setting ["Use your data to train Pinterest Canvas"](https://help.pinterest.com/en/article/manage-genai-settings).
