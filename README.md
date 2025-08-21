@@ -33,7 +33,8 @@ __Legend:__
 
 ## Tools
 ### Web Browser
-- [Vivaldi](https://vivaldi.com/download/) - 🆓🔒 Has some similarities to Opera. The developers have taken a firm stance against the "AI trend", read about it [here](https://vivaldi.com/blog/technology/vivaldi-wont-allow-a-machine-to-lie-to-you/). Their iOS app allows showing tabs at the top/bottom of the UI. On desktop you will have: RAM usage for each page and built-in translation, notes, tasks, mail, and RSS feed panel -- these replaced all extensions I had, only kept uBlock.
+- [Vivaldi](https://vivaldi.com/download/) - 🆓🔒 Has some similarities to Opera. The developers have taken a firm stance against the "AI trend", read about it [here](https://vivaldi.com/blog/technology/vivaldi-wont-allow-a-machine-to-lie-to-you/). Their iOS app allows showing tabs at the top/bottom of the UI. On desktop you will have: RAM usage for each page and built-in translation, notes, tasks, mail, and RSS feed panel -- these replaced all extensions I had, only kept [uBlock](https://ublockorigin.com).
+- [Zen Browser](https://zen-browser.app) - 🆓 (Currently in **Beta**) with a sleek and smooth UI, it is very appealing to the eyes. It has a more "toned-down" interface with focus on the web page content, including a split-view feature. Its codebase is derived from Firefox but with telemetry removed.
 
 ### Cloud Storage
 - [MEGA](https://mega.io) - ✴️🔒 Allows file syncing on-device; zero-knowledge encryption for all data; but, if you are serious about taking your files to the cloud, then you will need to subscribe to one of their plans. Free accounts have limited data transfer, but the plans are cheap compared to their competitors.
