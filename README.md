@@ -148,6 +148,8 @@ If you are an author, show below your commitment to not use nor implement "AI-fe
 [@oAGoulart](https://github.com/oAGoulart)
 
 ## Do NOT Trust
+- Otter.ai
+  - McCurdy, W. (2025, August 16). Otter Accused of Recording Meetings Without Consent to Train Its Tech. PCMag. https://www.pcmag.com/news/using-otter-notetaker-this-lawsuit-says-it-broke-privacy-laws.
 - Bitwarden
   - Babcock, K. (2025, July 10). Bitwarden sets foundation for secure AI authentication with MCP server. Bitwarden Blog. https://bitwarden.com/blog/bitwarden-mcp-server/. \[[Archived](https://web.archive.org/web/20250712202221/https://bitwarden.com/blog/bitwarden-mcp-server/)\]
 - Microsoft
