@@ -158,6 +158,8 @@ If you are an author, show below your commitment to not use nor implement "AI-fe
 [@oAGoulart](https://github.com/oAGoulart)
 
 ## Do NOT Trust
+- Mozilla
+  - Kan, M. (2025, December 16). Mozilla's New CEO: It's Time to Evolve Firefox Into an AI Browser. PCMag. https://www.pcmag.com/news/mozillas-new-ceo-its-time-to-evolve-firefox-into-an-ai-browser. \[[Archived](https://web.archive.org/web/20251218112713/https://www.pcmag.com/news/mozillas-new-ceo-its-time-to-evolve-firefox-into-an-ai-browser)\]
 - Otter.ai
   - McCurdy, W. (2025, August 16). Otter Accused of Recording Meetings Without Consent to Train Its Tech. PCMag. https://www.pcmag.com/news/using-otter-notetaker-this-lawsuit-says-it-broke-privacy-laws.
 - Bitwarden
