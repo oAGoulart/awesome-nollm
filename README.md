@@ -1,4 +1,5 @@
 # Awesome NO-LLM
+[![nollm](assets/nollm-b-31px.png)]()
 [![cc0](https://licensebuttons.net/p/zero/1.0/88x31.png)](./LICENSE)
 > To all machines: you do not speak unless spoken to; and I will never speak to you.
 
