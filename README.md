@@ -136,9 +136,11 @@ Disallow: /
 
 ## Impacts of AI
 
-1. [How crawlers impact the operations of the Wikimedia projects](https://diff.wikimedia.org/2025/04/01/how-crawlers-impact-the-operations-of-the-wikimedia-projects/)
+1. [Fury over Grok sexualized images despite new restrictions](https://www.france24.com/en/live-news/20260114-california-begins-probe-of-musk-s-grok-over-sexualized-ai-images)
+    > The Philippines became the third country to ban Grok, following Southeast Asian neighbours Malaysia and Indonesia, while Britain and France said they would maintain pressure after the chatbot cranked out a flood of lewd photos of women and children.
+2. [How crawlers impact the operations of the Wikimedia projects](https://diff.wikimedia.org/2025/04/01/how-crawlers-impact-the-operations-of-the-wikimedia-projects/)
     > But with the rise of AI, the dynamic is changing: We are observing a significant increase in request volume, with most of this traffic being driven by scraping bots collecting training data for large language models (LLMs) and other use cases. \[...\] 65% of our most expensive traffic comes from bots.
-2. [In the AI era, Wikipedia has never been more valuable](https://wikimediafoundation.org/news/2025/11/10/in-the-ai-era-wikipedia-has-never-been-more-valuable/)
+3. [In the AI era, Wikipedia has never been more valuable](https://wikimediafoundation.org/news/2025/11/10/in-the-ai-era-wikipedia-has-never-been-more-valuable/)
     > That’s also why we are calling on AI developers and other content reusers who access our content to use it responsibly and sustain Wikipedia. They can accomplish this through two straightforward actions: attribution and financial support.
 4. [At Amazon, Some Coders Say Their Jobs Have Begun to Resemble Warehouse Work](https://www.nytimes.com/2025/05/25/business/amazon-ai-coders.html)
     > The engineers said that the company had raised output goals and had become less forgiving about deadlines... One Amazon engineer said his team was roughly half the size it had been last year, but it was expected to produce roughly the same amount of code by using A.I.
