@@ -142,7 +142,9 @@ Disallow: /
     > But with the rise of AI, the dynamic is changing: We are observing a significant increase in request volume, with most of this traffic being driven by scraping bots collecting training data for large language models (LLMs) and other use cases. \[...\] 65% of our most expensive traffic comes from bots.
 3. [In the AI era, Wikipedia has never been more valuable](https://wikimediafoundation.org/news/2025/11/10/in-the-ai-era-wikipedia-has-never-been-more-valuable/)
     > That’s also why we are calling on AI developers and other content reusers who access our content to use it responsibly and sustain Wikipedia. They can accomplish this through two straightforward actions: attribution and financial support.
-4. [At Amazon, Some Coders Say Their Jobs Have Begun to Resemble Warehouse Work](https://www.nytimes.com/2025/05/25/business/amazon-ai-coders.html)
+4. [Stay away from my trash! If writing the code is the easy part, why would I want someone else to write it?](https://tldraw.dev/blog/stay-away-from-my-trash)
+    > We'd started getting pull requests that purported to fix reported issues but which were, in retrospect, obvious "fix this issue" one-shots by an author using AI coding tools. Without broader knowledge of the codebase or the purpose of the project, the AI agents were taking the issue at face value and producing a diff. Any problems with the issue were multiplied in the pull request, leading to some of the strangest PRs I'd ever seen.
+5. [At Amazon, Some Coders Say Their Jobs Have Begun to Resemble Warehouse Work](https://www.nytimes.com/2025/05/25/business/amazon-ai-coders.html)
     > The engineers said that the company had raised output goals and had become less forgiving about deadlines... One Amazon engineer said his team was roughly half the size it had been last year, but it was expected to produce roughly the same amount of code by using A.I.
 
 ## AI-Free Content Badge
