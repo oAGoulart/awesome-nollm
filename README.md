@@ -21,6 +21,7 @@ __Legend:__
   - [WebMail Provider](#webmail-provider)
   - [Text Editor](#text-editor)
   - [Code Editor](#code-editor)
+  - [IDE](#ide)
   - [Graphics Editor](#graphics-editor)
   - [Grammar Checker](#grammar-checker)
   - [GIS](#gis)
@@ -49,6 +50,9 @@ __Legend:__
 
 ### Code Editor
 - [VSCodium](https://vscodium.com) - 🆓 VSCode but with no MS telemetry or LLM. It took me some time to transition from VSCode, but it was worth it (anecdote: it does feel snappier/faster). If you want to use WSL with Codium, use this extension: [Open Remote - WSL](https://github.com/jeanp413/open-remote-wsl) (you can search it directly on "Extensions" sidebar too) but it is not stable yet (see [this issue](https://github.com/jeanp413/open-remote-wsl/issues/2#issuecomment-3216285319)).
+
+### IDE
+- [CLion](https://www.jetbrains.com/clion/) - ✴️🔒 For C and C++, it is the best alternative to MS Visual Studio. I've started using it more than VSCodium for C development since most features work out-of-the-box (no need for ten different plugins, three different config files, etc.), specially WSL. I still use MSVS for some very specific debugging tasks but for everything else I use CLion now.
 
 ### Graphics Editor
 - [PixiEditor](https://pixieditor.net) - 🆓 Supports pixel art, vector and raster editing, heightmaps, sprite sheets, and animations. Developers explicitly state no-AI use. I did not test all features, but this project is quite promising.
