@@ -46,7 +46,7 @@ __Legend:__
 
 ### Text Editor
 - [Neovim](https://github.com/neovim/neovim) - 🆓 Vim-fork focused on extensibility and usability. More useful than `nano` but not as cluttered as a GUI application.
-- [Kile](https://apps.kde.org/kile/) - 🆓 LaTeX frontend by KDE. I've used it now for some time, it is not as stable as [TeXworks](https://www.tug.org/texworks/), but it has many more features. You should install [MiKTeX](https://miktex.org) first and -- for best experience -- [Okular](https://apps.kde.org/okular/), [ImageMagick](https://imagemagick.org).
+- [Kile](https://apps.kde.org/kile/) - 🆓 LaTeX frontend by KDE. It is not as stable as [TeXworks](https://www.tug.org/texworks/), but it has many more features. You should install [MiKTeX](https://miktex.org) first and -- for best experience -- [Okular](https://apps.kde.org/okular/), [ImageMagick](https://imagemagick.org). Another alternative is [LateX Workshop](https://open-vsx.org/extension/James-Yu/latex-workshop) extension -- which works in VSCodium.
 
 ### Code Editor
 - [VSCodium](https://vscodium.com) - 🆓 VSCode but with no MS telemetry or LLM. It took me some time to transition from VSCode, but it was worth it (anecdote: it does feel snappier/faster). If you want to use WSL with Codium, use this extension: [Open Remote - WSL](https://github.com/jeanp413/open-remote-wsl) (you can search it directly on "Extensions" sidebar too) but it is not stable yet (see [this issue](https://github.com/jeanp413/open-remote-wsl/issues/2#issuecomment-3216285319)).
