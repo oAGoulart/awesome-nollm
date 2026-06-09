@@ -45,7 +45,7 @@ __Legend:__
 - [Fastmail](https://www.fastmail.com) - 💶🔒 Privacy-first private email hosting with most features you can find on Google Workspace. It is worth the price.
 
 ### Text Editor
-- [Neovim](https://github.com/neovim/neovim) - 🆓 Vim-fork focused on extensibility and usability. More useful than `nano` but not as cluttered as a GUI application.
+- [Vim Classic](https://vim-classic.org) - 🆓 Vim fork maintained without the use of generative AI tooos.
 - [Kile](https://apps.kde.org/kile/) - 🆓 LaTeX frontend by KDE. It is not as stable as [TeXworks](https://www.tug.org/texworks/), but it has many more features. You should install [MiKTeX](https://miktex.org) first and -- for best experience -- [Okular](https://apps.kde.org/okular/), [ImageMagick](https://imagemagick.org). Another alternative is [LateX Workshop](https://open-vsx.org/extension/James-Yu/latex-workshop) extension -- which works in VSCodium.
 
 ### Code Editor
