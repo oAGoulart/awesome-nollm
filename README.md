@@ -179,6 +179,9 @@ If you are an author, show below your commitment to not use nor implement "AI-fe
 [@oAGoulart](https://github.com/oAGoulart)
 
 ## Do NOT Trust
+- Proton
+  - Krištopaitytė, E. (2026, October 30). Proton users cancel subscriptions following CEO Andy Yen’s “loser thinking” remarks. https://cybernews.com/ai-news/proton-cancel-subscriptions/.
+  - Krištopaitytė, E. (2026, November 3). Proton issues an apology, says its AI use will never come at the expense of security. https://cybernews.com/ai-news/proton-apology-ai/.
 - Mozilla
   - Kan, M. (2025, December 16). Mozilla's New CEO: It's Time to Evolve Firefox Into an AI Browser. PCMag. https://www.pcmag.com/news/mozillas-new-ceo-its-time-to-evolve-firefox-into-an-ai-browser. \[[Archived](https://web.archive.org/web/20251218112713/https://www.pcmag.com/news/mozillas-new-ceo-its-time-to-evolve-firefox-into-an-ai-browser)\]
 - Otter.ai
