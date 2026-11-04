@@ -27,6 +27,9 @@ __Legend:__
   - [GIS](#gis)
   - [Office Suite](#office-suite)
 - [AI-Related Settings](#ai-related-settings)
+  - [DuckDuckGo](#duckduckgo)
+  - [Pinterest](#pinterest)
+  - [Google](#google)
 - [Stopping AI Crawler Bots](#stopping-ai-crawler-bots)
 - [Impacts of AI](#impacts-of-ai)
 - [AI-Free Content Badge](#ai-free-content-badge)
@@ -69,8 +72,16 @@ __Legend:__
 - [LibreOffice](https://www.libreoffice.org) - 🆓 Not much to add, most of you should use it already. I tend to use Writer for formatting and spell checking, then I use LaTeX to render my documents -- I do not use Calc as often.
 
 ## AI-Related Settings
-1. If you use Pinterest, disable the setting ["Use your data to train Pinterest Canvas"](https://help.pinterest.com/en/article/manage-genai-settings).
-2. If you use DuckDuckGo, you can now filter out *most* AI-generated images from results, go to [AI Features](https://duckduckgo.com/settings#aifeatures) and turn on "Hide AI-Generated Images".
+Settings and hosts that reduce or turn off generative-AI features in common products. Each subsection is one platform.
+
+### DuckDuckGo
+DuckDuckGo can hide most AI-generated images in results: open [AI Features](https://duckduckgo.com/settings#aifeatures) and turn on **Hide AI-Generated Images**. For search without Search Assist / Duck.ai on the host itself, use the dedicated no-AI host [`https://noai.duckduckgo.com/`](https://noai.duckduckgo.com/) (AI images are hidden by default there). Further reading: [DuckDuckGo without AI](https://webwithoutai.com/duckduckgo-without-ai/).
+
+### Pinterest
+If you use Pinterest, disable ["Use your data to train Pinterest Canvas"](https://help.pinterest.com/en/article/manage-genai-settings) so your activity is not used to train that model.
+
+### Google
+Google’s documented **Web** filter uses `udm=14` in the search URL so results emphasize text links without AI Overviews. This is a URL filter, not a permanent account-wide kill switch. Further reading: [udm=14](https://webwithoutai.com/udm-14/).
 
 ## Stopping AI Crawler Bots
 To stop most AI chatbots and data crawlers on your website, add this `robots.txt` to your root folder (for up-to-date index of agents, check [AI agent directory](https://usehall.com/agents) and [AI Agents](https://darkvisitors.com/agents)):
